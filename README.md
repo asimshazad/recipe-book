@@ -10,7 +10,7 @@ A simple recipe book application built with Vue.js 3, Vue Router, Vuex, and Tail
 
 ## Screenshot
 
-![Recipe Book App Screenshot](screenshot.png)
+![Recipe Book App Screenshot](screenshot.gif)
 
 
 ## Project setup
@@ -23,15 +23,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
